@@ -39,7 +39,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Cela ouvrira l'application dans ton navigateur à l'adresse [http://localhost:8501](http://localhost:8501).
+
 
 ### Structure des fichiers
 
