@@ -42,13 +42,15 @@ streamlit run app.py
 Cela ouvrira l'application dans ton navigateur à l'adresse [http://localhost:8501](http://localhost:8501).
 
 ### Structure des fichiers
+
+```bash
 .
 ├── app.py               # Code principal de l'application
 ├── requirements.txt     # Liste des dépendances Python
 ├── data/                # Dossier contenant les dossiers de données (raw et processed)
 ├── notebooks/           # Dossier contenant les fichiers de tests bac à sable
 └── README.md            # Ce fichier
-
+```
 
 ## Auteurs
 
